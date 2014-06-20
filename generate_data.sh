@@ -1,4 +1,5 @@
 # hahahaha
+# this is on github
 touch text1.txt
 
 for i in {1..10};
